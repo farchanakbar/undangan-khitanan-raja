@@ -81,10 +81,19 @@
     display: none;
   }
 
+  #countdown {
+    text-align: center;
+    font-size: 1.5em;
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
   #front-text {
     padding-top: 40%;
     height: 100vh;
-    background-image: url(../img/img3-foreground.jpg);
+    background-image: url(../img/raja-white.png);
     background-size: cover;
   }
 }
